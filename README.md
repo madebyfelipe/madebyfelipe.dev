@@ -4,7 +4,7 @@
 
 projeto sendo criado com Three.js, Scrolltrigger
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
+![Home page screenshot](public/social/image.png?raw=true "Exemplo de resultado final")
 
 Projeto estudantil para fins de aprimoramento técnico-profissional, além de ser utilizado como portfólio pessoal.
 Repositório está sendo mantido por apenas uma pessoa nos dias livres em conjunto com emprego fixo, então resultados podem demorar a sair.
